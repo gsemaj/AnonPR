@@ -1,0 +1,22 @@
+{
+  "name": "anonpr",
+  "version": "1.0.0",
+  "description": "AnonPR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsemaj/AnonPR.git"
+  },
+  "author": "Gent Semaj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gsemaj/AnonPR/issues"
+  },
+  "homepage": "https://github.com/gsemaj/AnonPR#readme",
+  "dependencies": {
+    "@prb0t/pr": "^1.0.0"
+  }
+}
